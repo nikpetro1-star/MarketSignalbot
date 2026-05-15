@@ -1,1 +1,3 @@
-
+TOKEN = "ΒΑΛΕ_ΕΔΩ_ΤΟ_BOT_TOKEN"
+TRIAL_LINK = "ΒΑΛΕ_ΕΔΩ_INVITE_LINK_TRIAL_GROUP"
+TRIAL_HOURS = 48
